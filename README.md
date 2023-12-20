@@ -43,7 +43,7 @@ I've got a black belt in Rust, can speak Pythonic poetry, JavaScript jazz, and C
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,mysql,python,rust,cpp)
 
-### Farmeworks
+### Frameworks
 
 ![My Skills](https://skillicons.dev/icons?i=react,nextjs,expressjs,prisma)
 
@@ -69,17 +69,4 @@ I've got a black belt in Rust, can speak Pythonic poetry, JavaScript jazz, and C
 - Typescript's magic
 - Rust's blazing-fastness
 <!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-<!--
- -->
