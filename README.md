@@ -27,12 +27,12 @@ I've got a black belt in Rust, can speak Pythonic poetry, JavaScript jazz, and C
     Linkedin
   </a>&nbsp; &nbsp;
   <a href="https://brahmbir.vercel.app">
-    <img width="20" src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+    <img width="20" src="https://skillicons.dev/icons?i=nextjs&theme=dark" />
     Portfolio
   </a>&nbsp; &nbsp;
-  <a href="https://skillicons.dev">
-    <img width="20" src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-    Linkedin
+  <a href="https://instagram.com/brahmbirs?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
+    <img width="20" src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+    Instagram    
   </a>
 
 <!--  Skill section -->
