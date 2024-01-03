@@ -27,7 +27,7 @@ I've got a black belt in Rust, can speak Pythonic poetry, JavaScript jazz, and C
   > Visit [https://brahmbir.vercel.app](https://brahmbir.vercel.app)
 
 - **For list of all projects**
-  > Visit [https://brahmbir.github.io/brahmbir/](https://brahmbir.github.io/brahmbir/)
+  > Visit [https://brahmbir.github.io](https://brahmbir.github.io)
 
 ---
 
