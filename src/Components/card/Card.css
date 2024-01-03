@@ -1,0 +1,125 @@
+.cardStyle:first-of-type {
+  background-color: rgb(var(--ldarkblue));
+}
+
+.details {
+  background: linear-gradient(
+    0.25turn,
+    rgb(var(--ldarkblue)),
+    rgba(var(--ldarkblue), 0.1)
+  );
+  padding: 0 0.5em;
+  backdrop-filter: blur(5px);
+  overflow: clip;
+  width: calc(75% - 1em);
+  height: fit-content;
+  max-height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  gap: 1em;
+  opacity: 0;
+  padding: 0.5em 0.5em;
+  border-radius: 1em;
+  transition: opacity 0.3s;
+}
+.details h3 {
+  font-size: 3.5em;
+  margin: 0;
+}
+.details p {
+  margin: 0;
+  font-size: 1.2em;
+}
+.details a {
+  font-size: 1.2em;
+  font-weight: 600;
+  padding: 0.25em 1em;
+  background-color: var(--darkblue);
+  border-radius: 0.75em;
+  text-decoration: none;
+  width: fit-content;
+  align-self: self-end;
+  color: var(--white);
+}
+.details a:visited {
+  color: var(--white);
+}
+.details a:hover {
+  color: #4f83d8;
+}
+.img {
+  z-index: -1;
+  width: 30%;
+  position: relative;
+  height: 100%;
+  pointer-events: none;
+  /* overflow: clip; */
+}
+.img img {
+  position: absolute;
+  top: 50%;
+  right: 0%;
+  transform: translate(0%, -50%);
+  border-radius: 1em;
+  width: fit-content;
+  height: 60%;
+  aspect-ratio: 16/12;
+  object-fit: cover;
+  transition: height 0.3s;
+  filter: brightness(70%);
+}
+.cardStyle:first-of-type img {
+  height: 80%;
+  filter: brightness(100%);
+}
+.cardStyle:first-of-type .details {
+  opacity: 1;
+}
+@media (max-width: 1000px) {
+  .details h3 {
+    font-size: 2.75em;
+    margin: 0;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  .details p {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 7; /* number of lines to show */
+    line-clamp: 7;
+    -webkit-box-orient: vertical;
+  }
+}
+@media (max-width: 600px) {
+  .details {
+    background: linear-gradient(
+      0turn,
+      rgb(var(--ldarkblue)),
+      rgba(var(--ldarkblue), 0.1)
+    );
+    width: calc(100% - 1em);
+    height: 70%;
+    max-height: 100%;
+  }
+  .img {
+    width: 100%;
+    height: 30%;
+  }
+  .img img {
+    top: 0%;
+    right: auto;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    height: 200%;
+    width: 50%;
+    transition: width 0.3s;
+    aspect-ratio: 16/10;
+  }
+  .cardStyle:first-of-type img {
+    height: 200%;
+    width: 90%;
+    aspect-ratio: 16/10;
+  }
+}

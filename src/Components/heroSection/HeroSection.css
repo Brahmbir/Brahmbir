@@ -1,0 +1,123 @@
+.hero {
+  position: relative;
+  width: 100vw;
+  height: 92.5vh;
+  display: flex;
+}
+.hero::before {
+  z-index: 10;
+  position: absolute;
+  bottom: -1vh;
+  content: " ";
+  backdrop-filter: blur(30px);
+  height: 7.5vh;
+  width: 100vw;
+}
+.splineB {
+  z-index: 5;
+  inset: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.side {
+  pointer-events: none;
+  box-sizing: border-box;
+  min-width: max(40vw, 35em);
+  width: calc(55% - max(5em, 10vw));
+  height: fit-content;
+  align-self: center;
+  left: max(5em, 10vw);
+  position: relative;
+  z-index: 20;
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  justify-content: center;
+  border-radius: 1em;
+  backdrop-filter: blur(30px);
+  padding: 3em;
+  padding-bottom: 4em;
+  -webkit-mask: linear-gradient(
+      to top,
+      transparent 5%,
+      #fff 15% 85%,
+      transparent 95%
+    ),
+    linear-gradient(to left, transparent 5%, #fff 10% 90%, transparent 95%);
+  -webkit-mask-size: 110% 110%;
+  -webkit-mask-position: center;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-composite: source-in;
+
+  mask: linear-gradient(to top, transparent 5%, #fff 15% 85%, transparent 95%),
+    linear-gradient(to left, transparent 5%, #fff 10% 90%, transparent 95%);
+  mask-size: 110% 110%;
+  mask-position: center;
+  mask-repeat: no-repeat;
+  mask-composite: intersect;
+  background-color: rgba(var(--ldarkblue), 0.3);
+}
+
+.side h3 {
+  position: relative;
+  width: fit-content;
+  font-size: 2em;
+  margin-top: 0;
+}
+.side h3::after {
+  content: "🚀";
+  position: absolute;
+}
+
+.side p {
+  font-size: 1.25em;
+  padding-right: 0.75em;
+}
+.side button {
+  pointer-events: all;
+}
+.links {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  position: relative;
+  gap: 1.5em;
+  align-items: center;
+  margin-top: 2.5em;
+}
+.links::before {
+  top: -2em;
+  content: "Contact me";
+  position: absolute;
+}
+.links a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  pointer-events: all;
+  width: 2.5em;
+  align-self: 1/1;
+}
+.links svg {
+  fill: var(--white);
+  stroke: var(--white);
+  width: 100%;
+  height: 100%;
+}
+.links a:hover svg {
+  fill: #2e456a;
+  stroke: #2e456a;
+  width: 100%;
+  height: 100%;
+}
+@media (max-width: 600px) {
+  .side {
+    min-width: 60%;
+    width: calc(100%);
+    left: 0;
+    border-radius: 1em;
+    padding-bottom: 5em;
+    background-color: rgba(var(--ldarkblue), 0.6);
+  }
+}

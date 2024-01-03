@@ -20,6 +20,17 @@ In addition to my coding pursuits, I indulge in game development as a hobby, exp
 
 I've got a black belt in Rust, can speak Pythonic poetry, JavaScript jazz, and C++ in iambic pentameter. When bugs see me coming, they check themselves into digital therapy. 🐞💻
 
+---
+
+- **For my website**
+
+  > Visit [https://brahmbir.vercel.app](https://brahmbir.vercel.app)
+
+- **For list of all projects**
+  > Visit [https://brahmbir.github.io](https://brahmbir.github.io)
+
+---
+
 ## 📫 How to reach me:
 
  <a href="https://linkedin.com/in/brahm-bir-singh-6a9115245">
@@ -37,7 +48,7 @@ I've got a black belt in Rust, can speak Pythonic poetry, JavaScript jazz, and C
 
 <!--  Skill section -->
 
-# My Skills and Tools 📜
+## My Skills and Tools 📜
 
 ### Languages
 

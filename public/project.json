@@ -1,0 +1,23 @@
+[
+  {
+    "key": "portfolio",
+    "imgLink": "/photos/portfolio.png",
+    "heading": "Portfolio",
+    "paragraph": "A portfolio created with Next.js, React.js, and Framer Motion.js. Leveraging Next.js' SSR capabilities, it ensures lightning-fast load times and optimal SEO performance.",
+    "readMoreLink": "https://brahmbir.vercel.app"
+  },
+  {
+    "key": "waveset",
+    "imgLink": "/photos/waveset.png",
+    "heading": "WaveSet",
+    "paragraph": "\"WAVESET\" is a project that harnesses the power of Wave Function Collapse to dynamically generate intricate and visually captivating patterns for a versatile tile set.",
+    "readMoreLink": "https://brahmbir.github.io/WAVESET/"
+  },
+  {
+    "key": "schedula",
+    "imgLink": "/photos/schedule_check.png",
+    "heading": "Schedula_check",
+    "paragraph": "Schedula_check is a react base website page which compute available meeting time from two person's schedule",
+    "readMoreLink": "https://brahmbir.github.io/Schedula_Check/"
+  }
+]

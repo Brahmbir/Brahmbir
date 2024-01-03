@@ -1,0 +1,44 @@
+.drag {
+  background-color: rgba(var(--ldarkblue), 0.7);
+  border-radius: 50%;
+  width: 3.5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  aspect-ratio: 1/1;
+  z-index: 10;
+  position: absolute;
+}
+.drag svg {
+  scale: 2.5;
+}
+.up {
+  bottom: 1em;
+  animation: up 1.5s ease-in-out 0s infinite;
+}
+.right {
+  right: 1em;
+  animation: right 1.7s ease-in-out 0s infinite;
+}
+@keyframes right {
+  0% {
+    right: 1em;
+  }
+  50% {
+    right: 3em;
+  }
+  100% {
+    right: 1em;
+  }
+}
+@keyframes up {
+  0% {
+    bottom: 1em;
+  }
+  50% {
+    bottom: 3em;
+  }
+  100% {
+    bottom: 1em;
+  }
+}

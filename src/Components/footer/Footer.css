@@ -1,0 +1,22 @@
+.foot {
+  width: 100vw;
+  height: 7.5vh;
+  color: var(--white);
+}
+.foot ul {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  gap: 5em;
+  height: fit-content;
+  margin-block: auto;
+}
+.foot ul svg {
+  fill: var(--white);
+  scale: 2.5;
+}
+.foot ul svg:hover {
+  fill: #2e456a;
+}

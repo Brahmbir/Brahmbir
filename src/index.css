@@ -1,0 +1,41 @@
+:root {
+  --black: #0e0e0e;
+  --gary: #202020;
+  --darkblue: #0c0f14;
+  --darkblueRGB: 12, 15, 20;
+
+  --ldarkblue: 27, 35, 47;
+
+  --white: #e2e2e2;
+  font-family: Tahoma, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: var(--black);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  overflow: scroll;
+  overflow-x: clip;
+}
+::-webkit-scrollbar {
+  width: 0; /* Remove scrollbar space */
+  background: transparent; /* Optional: just make scrollbar invisible */
+}
+/* Optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+  background: #ff0000;
+}
+body {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  padding: 0;
+}
