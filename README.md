@@ -38,6 +38,14 @@ I've got a black belt in Rust, can speak Pythonic poetry, JavaScript jazz, and C
 
 <!--  Skill section -->
 
+<div style="background-color: rgb(150, 150, 150);">
+<p >test</p>
+<span style="color:blue">some *blue* text</span>.
+<span style="color:#">some *blue* text</span>.
+</div>
+
+
+
 ## My Skills and Tools 📜
 
 ### Languages
