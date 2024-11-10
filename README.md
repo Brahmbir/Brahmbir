@@ -20,48 +20,42 @@ In addition to my coding pursuits, I indulge in game development as a hobby, exp
 
 I've got a black belt in Rust, can speak Pythonic poetry, JavaScript jazz, and C++ in iambic pentameter. When bugs see me coming, they check themselves into digital therapy. 🐞💻
 
----
+<!-- --- -->
 
-- **For my website**
+<!-- - **For my website**
 
   > Visit [https://brahmbir.vercel.app](https://brahmbir.vercel.app)
 
 - **For list of all projects**
   > Visit [https://brahmbir.github.io](https://brahmbir.github.io)
 
----
+--- -->
 
 ## 📫 How to reach me:
 
- <a href="https://linkedin.com/in/brahm-bir-singh-6a9115245">
-    <img width="20" src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-    Linkedin
-  </a>&nbsp; &nbsp;
-  <a href="https://brahmbir.vercel.app">
-    <img width="20" src="https://skillicons.dev/icons?i=nextjs&theme=dark" />
-    Portfolio
-  </a>&nbsp; &nbsp;
-  <a href="https://instagram.com/brahmbirs?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
-    <img width="20" src="https://skillicons.dev/icons?i=instagram&theme=dark" />
-    Instagram    
-  </a>
+| <a href="https://linkedin.com/in/brahm-bir-singh-6a9115245"><img width="30" align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" /><p>LinkedIn</p></a> | <a href="https://brahmbir.vercel.app"><img width="30" align="center" src="https://skillicons.dev/icons?i=nextjs&theme=dark" /><p>My Portfolio</p></a> | <a href="https://instagram.com/brahmbirs?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"><img width="30" align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" /><p>Instagram</p></a> |
+| ----------- | ----------- | ----------- |
 
 <!--  Skill section -->
 
+
 ## My Skills and Tools 📜
 
-### Languages
-
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,mysql,python,rust,cpp)
-
-### Frameworks
-
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,expressjs,prisma)
-
-### Tools
-
-![My Skills](https://skillicons.dev/icons?i=vscode,blender,git,linux,nodejs,vite,docker,postman)
-
+```mermaid
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
+flowchart LR
+    BrahmBir-.->|Languages|Lang["`  *Javascript* **Typescript**
+                                    ***HTML*** **CSS**
+                                    SQL **Python**
+                                    Rust ***C++***`"]
+    BrahmBir-.->|Tools|Tool["`  **React.js** *Next.js* 
+                                *Express.js* 
+                                ***Hono.js*** prisma `"]
+    BrahmBir-.->|Frameworks|Frame["`***VScode*** Blender **Git** 
+                                    Linux *Node.js*
+                                     **Vite** Docker
+                                      *Postman*`"]
+```
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
