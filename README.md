@@ -33,56 +33,10 @@ I've got a black belt in Rust, can speak Pythonic poetry, JavaScript jazz, and C
 
 ## 📫 How to reach me:
 
-<table cellpadding="0">
-  <td>
- <a href="https://linkedin.com/in/brahm-bir-singh-6a9115245">
- <table>
-  <td>
-    <tr halign="center">
-    <center>
-    <img width="30" align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-    </center>
-    </tr>
-    <tr valign="center">    
-    Linkedin
-    </tr>
-  </td>
-</table>
-  </a>
-  </td>
-  <td>
-  <a href="https://brahmbir.vercel.app">
- <table>
-  <td>
-    <tr halign="center">
-    <center>
-    <img width="30" align="center" src="https://skillicons.dev/icons?i=nextjs&theme=dark" />
-    </center>
-    </tr>
-    <tr valign="center">    
-    Portfolio
-    </tr>
-  </td>
-</table>
-</a>
-</td>
-<td>
-<a href="https://instagram.com/brahmbirs?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
- <table>
-  <td>
-    <tr halign="center">
-    <center>
-    <img width="30" align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" />
-    </center>
-    </tr>
-    <tr valign="center">    
-Instagram
-    </tr>
-  </td>
-</table>
-  </a>
-  </td>
-</table><!--  Skill section -->
+| <a href="https://linkedin.com/in/brahm-bir-singh-6a9115245"><img width="30" align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" /><p>LinkedIn</p></a> | <a href="https://brahmbir.vercel.app"><img width="30" align="center" src="https://skillicons.dev/icons?i=nextjs&theme=dark" /><p>My Portfolio</p></a> | <a href="https://instagram.com/brahmbirs?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"><img width="30" align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" /><p>Instagram</p></a> |
+| ----------- | ----------- | ----------- |
+
+<!--  Skill section -->
 
 ## My Skills and Tools 📜
 
