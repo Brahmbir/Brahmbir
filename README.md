@@ -42,25 +42,24 @@ I've got a black belt in Rust, can speak Pythonic poetry, JavaScript jazz, and C
 ## My Skills and Tools 📜
 
 ```mermaid
----
-title: test
----
-flowchart LR
+flowchart TB
     %%{init: {"flowchart": {"htmlLabels": false}} }%%
 
 
+    subgraph Lang
+    Languages(["Language"])<-.-JS@{ img: "https://skillicons.dev/icons?i=js",label: "Javascript", pos: "t", w: 60, h: 60, constraint: "on" }
+    Languages(["Language"])<-.-TS@{form: "square", img: "https://skillicons.dev/icons?i=ts",label: "Javascript", pos: "t", w: 60, h: 60, constraint: "on" }
+    Languages(["Language"])<-.-HTML@{form: "square", img: "https://skillicons.dev/icons?i=html",label: "Javascript", pos: "t", w: 60, h: 60, constraint: "on" }
+    Languages(["Language"])<-.-CSS@{form: "square", img: "https://skillicons.dev/icons?i=css",label: "Javascript", pos: "t", w: 60, h: 60, constraint: "on" }
+    Languages(["Language"])<-.-SQL@{form: "square", img: "https://skillicons.dev/icons?i=mysql",label: "Javascript", pos: "t", w: 60, h: 60, constraint: "on" }
+    Languages(["Language"])<-.-PY@{form: "square", img: "https://skillicons.dev/icons?i=python",label: "Javascript", pos: "t", w: 60, h: 60, constraint: "on" }
+    Languages(["Language"])<-.-RUST@{form: "square", img: "https://skillicons.dev/icons?i=rust",label: "Javascript", pos: "t", w: 60, h: 60, constraint: "on" }
+    Languages(["Language"])<-.-CPP@{form:rounded, img: "https://skillicons.dev/icons?i=cpp", pos: "t", w: 60, h: 60, constraint: "on" }
+    
+    end
 
-    A[Christmas] -->|Get money| B(Go shopping)
-    B --> C{Let me think}
-    C -->|One| D[Laptop]
-    C -->|Two| E[iPhone]
-    C -->|Three| F[fa:fa-car Car]
-%% flowchart LR
-    markdown["`This **is** _Markdown_`"]
-    newLines["`Line1
-    Line 2
-    Line 3`"]
-    markdown --> newLines
+    classDef default fill:#0000,stroke-width:0;
+
   
 ```
 
