@@ -42,42 +42,20 @@ I've got a black belt in Rust, can speak Pythonic poetry, JavaScript jazz, and C
 ## My Skills and Tools 📜
 
 ```mermaid
-flowchart TB
-    BrahmBir-.->Lang[Languages]
-    BrahmBir-.->Tool[Tools]
-    BrahmBir-.->Frame[Frameworks]
-
-
-    Lang<-.-JS[Javascript]
-    Lang<-.-TS[Typescript]
-    Lang<-.-HTML[HTML]
-    Lang<-.-CSS[CSS]
-    Lang<-.-SQL[SQL]
-    Lang<-.-PY[Python]
-    Lang<-.-RUST[Rust]
-    Lang<-.-CPP[C++]
-
-    Frame<-.-r[React.js]
-    Frame<-.-n[Next.js]
-    Frame<-.-e[Express.js]
-    Frame<-.-h[Hono.js]
-    Frame<-.-p[Prisma]
-
-    classDef default fill:#0000,stroke-width:0;
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
+flowchart LR
+    BrahmBir-.->|Languages|Lang["`  *Javascript* **Typescript**
+                                    ***HTML*** **CSS**
+                                    SQL **Python**
+                                    Rust ***C++***`"]
+    BrahmBir-.->|Tools|Tool["`  **React.js** *Next.js* 
+                                *Express.js* 
+                                ***Hono.js*** prisma `"]
+    BrahmBir-.->|Frameworks|Frame["`***VScode*** Blender **Git** 
+                                    Linux *Node.js*
+                                     **Vite** Docker
+                                      *Postman*`"]
 ```
-
-### Languages
-
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,mysql,python,rust,cpp)
-
-### Frameworks
-
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,expressjs,prisma)
-
-### Tools
-
-![My Skills](https://skillicons.dev/icons?i=vscode,blender,git,linux,nodejs,vite,docker,postman)
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
