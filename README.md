@@ -1,46 +1,3 @@
-<svg fill="none" viewBox="0 0 600 100000" width="600" height="100000" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          display: flex;
-          align-items:right;
-          width: 100%;
-          height: 300px;
-          background-color: black;
-          color: white;
-        }
-      </style>
-
-      <div class="container">
-        <h1>Hi there, my name is Nikola 👋</h1>
-        <h1>Hi there, my name is Nikola 👋</h1>
-        <h1>Hi there, my name is Nikola 👋</h1>
-        <h1>Hi there, my name is Nikola 👋</h1>
-        <h1>Hi there, my name is Nikola 👋</h1>
-        <h1>Hi there, my name is Nikola 👋</h1>
-        <h1>Hi there, my name is Nikola 👋</h1>
-        <h1>Hi there, my name is Nikola 👋</h1>
-        <h1>Hi there, my name is Nikola 👋</h1>
-        <h1>Hi there, my name is Nikola 👋</h1>
-        <h1>Hi there, my name is Nikola 👋</h1>
-        <h1>Hi there, my name is Nikola 👋</h1>
-        <h1>Hi there, my name is Nikola 👋</h1>
-        <h1>Hi there, my name is Nikola 👋</h1>
-        <h1>Hi there, my name is Nikola 👋</h1>
-        <h1>Hi there, my name is Nikola 👋</h1>
-        <h1>Hi there, my name is Nikola 👋</h1>
-        <h1>Hi there, my name is Nikola 👋</h1>
-        <h1>Hi there, my name is Nikola 👋</h1>
-
-      </div>
-    </div>
-
-  </foreignObject>
-</svg>
-
-
-
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Brahmbir Singh, Software Developer</h3>
 
@@ -77,10 +34,22 @@ I've got a black belt in Rust, can speak Pythonic poetry, JavaScript jazz, and C
 ## 📫 How to reach me:
 
 | <a href="https://linkedin.com/in/brahm-bir-singh-6a9115245"><img width="30" align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" /><p>LinkedIn</p></a> | <a href="https://brahmbir.vercel.app"><img width="30" align="center" src="https://skillicons.dev/icons?i=nextjs&theme=dark" /><p>My Portfolio</p></a> | <a href="https://instagram.com/brahmbirs?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"><img width="30" align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" /><p>Instagram</p></a> |
-| ----------- | ----------- | ----------- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+## Recent Projects
+
+<a href="https://brahmbir.dev/">
+<img alt="cool stuff here" style="width: 48.5%;height:100%" src="./asset/projectCard1.svg" />
+</a>
+<a href="https://brahmbir.github.io/GEDIT-graph-editor-/">
+<img align="right" alt="cool stuff here" style="width: 48.5%;" src="./asset/projectCard2.svg" />
+</a>
+
+#### For list of all projects, Visit &nbsp;=>&nbsp; [https://brahmbir.github.io](https://brahmbir.github.io)
+
+<br/>
 
 <!--  Skill section -->
-
 
 ## My Skills and Tools 📜
 
@@ -91,14 +60,15 @@ flowchart LR
                                     ***HTML*** **CSS**
                                     SQL **Python**
                                     Rust ***C++***`"]
-    BrahmBir-.->|Tools|Tool["`  **React.js** *Next.js* 
-                                *Express.js* 
+    BrahmBir-.->|Tools|Tool["`  **React.js** *Next.js*
+                                *Express.js*
                                 ***Hono.js*** prisma `"]
-    BrahmBir-.->|Frameworks|Frame["`***VScode*** Blender **Git** 
+    BrahmBir-.->|Frameworks|Frame["`***VScode*** Blender **Git**
                                     Linux *Node.js*
                                      **Vite** Docker
                                       *Postman*`"]
 ```
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 

@@ -1,0 +1,121 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+<div style="width:100%;height:100%;" xmlns="http://www.w3.org/1999/xhtml">
+  <style>
+    .ag-courses_item {
+    width: calc(100% - 3em );
+    height: calc(100% - 60px);
+    margin: 0 0 30px;
+    overflow: hidden;
+    border-radius: 2em;
+    display: flex;
+    flex-direction: column;
+    padding: 30px 1.5em;
+    background-color: #121212;
+    position: relative;
+}
+.ag-courses-item_title {
+  min-height: 87px;
+  margin: 0 0 0em;
+  overflow: hidden;
+  
+  font-weight: bold;
+  font-size: 2.5em;
+  color: #FFF;
+  
+  z-index: 2;
+  position: relative;
+}
+.detail{
+    font-size: 1.5em;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+.ag-courses-item_date-box {
+  color: #FFF;
+  margin: 0 0 1em;
+flex-grow: 1;
+  z-index: 2;
+  position: relative;
+}
+.ag-courses-item_date-box>p {
+  margin-top: 0;
+}
+.ag-courses-item_date-box>ul {
+  list-style:symbols("✨✨✨✨✨✨✨");
+  margin: 0;
+}
+.ag-courses-item_date-box:last-child {
+  margin: 0 0 0em;
+
+  flex-grow: initial;
+}
+.ag-courses-item_date {
+  font-weight: bold;
+  color: #f9b234;
+
+  -webkit-transition: color .5s ease;
+  -o-transition: color .5s ease;
+  transition: color .5s ease
+}
+.ag-courses-item_bg {
+  height: 10em;
+  width: 10em;
+  background-color: #cd993e;;
+
+  z-index: 1;
+  position: absolute;
+  top: -75px;
+  right: -75px;
+
+  border-radius: 50%;
+
+  -webkit-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  transition: all .5s ease;
+}
+</style>
+
+<div class="ag-courses_item">
+      <div class="ag-courses-item_bg"></div>
+      <div class="ag-courses-item_title">
+        My Portfolio
+      </div>
+      <div class="detail">
+
+      <div class="ag-courses-item_date-box">
+        <p>
+          Technologies Used 
+          <span class="ag-courses-item_date">
+            React.js
+          </span>
+          <span class="ag-courses-item_date">
+            Next.js
+          </span><span class="ag-courses-item_date">
+            Framer Motion.js:
+          </span>
+        </p>
+        <ul>
+  <li>
+    Fast and Responsive Site    
+  </li>
+  <li>
+    Engaging and Interactive Design
+  </li>
+
+</ul>
+      </div>
+      <div class="ag-courses-item_date-box">
+
+        live link :
+        <span class="ag-courses-item_date">
+          chick here
+        </span>
+      </div>
+    </div>
+
+  </div>
+</div>
+</foreignObject>
+</svg>
