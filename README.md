@@ -44,21 +44,20 @@ I've got a black belt in Rust, can speak Pythonic poetry, JavaScript jazz, and C
 ```mermaid
 flowchart TB
 
-    subgraph Lang
-    Languages(["Language"])<-.-JS@{ img: "https://skillicons.dev/icons?i=js",label: "Javascript", pos: "t", w: 60, h: 60, constraint: "on" }
-    Languages(["Language"])<-.-TS@{form: "square", img: "https://skillicons.dev/icons?i=ts",label: "Javascript", pos: "t", w: 60, h: 60, constraint: "on" }
-    Languages(["Language"])<-.-HTML@{form: "square", img: "https://skillicons.dev/icons?i=html",label: "Javascript", pos: "t", w: 60, h: 60, constraint: "on" }
-    Languages(["Language"])<-.-CSS@{form: "square", img: "https://skillicons.dev/icons?i=css",label: "Javascript", pos: "t", w: 60, h: 60, constraint: "on" }
-    Languages(["Language"])<-.-SQL@{form: "square", img: "https://skillicons.dev/icons?i=mysql",label: "Javascript", pos: "t", w: 60, h: 60, constraint: "on" }
-    Languages(["Language"])<-.-PY@{form: "square", img: "https://skillicons.dev/icons?i=python",label: "Javascript", pos: "t", w: 60, h: 60, constraint: "on" }
-    Languages(["Language"])<-.-RUST@{form: "square", img: "https://skillicons.dev/icons?i=rust",label: "Javascript", pos: "t", w: 60, h: 60, constraint: "on" }
-    Languages(["Language"])<-.-CPP@{form:rounded, img: "https://skillicons.dev/icons?i=cpp", pos: "t", w: 60, h: 60, constraint: "on" }
+    subgraph " "
+    Languages(["Language"])
+    Languages<-.-JS@{form:rounded, img: "https://skillicons.dev/icons?i=js", w: 60, h: 60, constraint: "on" }
+    Languages<-.-TS@{form:rounded, img: "https://skillicons.dev/icons?i=ts", w: 60, h: 60, constraint: "on" }
+    Languages<-.-HTML@{form:rounded, img: "https://skillicons.dev/icons?i=html", w: 60, h: 60, constraint: "on" }
+    Languages<-.-CSS@{form:rounded, img: "https://skillicons.dev/icons?i=css", w: 60, h: 60, constraint: "on" }
+    Languages<-.-SQL@{form:rounded, img: "https://skillicons.dev/icons?i=mysql", w: 60, h: 60, constraint: "on" }
+    Languages<-.-PY@{form:rounded, img: "https://skillicons.dev/icons?i=python", w: 60, h: 60, constraint: "on" }
+    Languages<-.-RUST@{form:rounded, img: "https://skillicons.dev/icons?i=rust", w: 60, h: 60, constraint: "on" }
+    Languages<-.-CPP@{form:rounded, img: "https://skillicons.dev/icons?i=cpp", w: 60, h: 60, constraint: "on" }
     
     end
 
     classDef default fill:#0000,stroke-width:0;
-
-  
 ```
 
 ### Languages
