@@ -38,18 +38,30 @@ I've got a black belt in Rust, can speak Pythonic poetry, JavaScript jazz, and C
 
 <!--  Skill section -->
 
-Here is a simple flow chart:
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
 
 ## My Skills and Tools 📜
+
+
+---
+title: test
+---
+flowchart LR
+    %%{init: {"flowchart": {"htmlLabels": false}} }%%
+
+
+
+    A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+%% flowchart LR
+    markdown["`This **is** _Markdown_`"]
+    newLines["`Line1
+    Line 2
+    Line 3`"]
+    markdown --> newLines
+  
 
 ### Languages
 
