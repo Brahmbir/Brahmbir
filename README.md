@@ -41,21 +41,7 @@ I've got a black belt in Rust, can speak Pythonic poetry, JavaScript jazz, and C
 
 ## My Skills and Tools 📜
 
-```mermaid
-%%{init: {"flowchart": {"htmlLabels": false}} }%%
-flowchart LR
-    BrahmBir-.->|Languages|Lang["`  *Javascript* **Typescript**
-                                    ***HTML*** **CSS**
-                                    SQL **Python**
-                                    Rust ***C++***`"]
-    BrahmBir-.->|Tools|Tool["`  **React.js** *Next.js* 
-                                *Express.js* 
-                                ***Hono.js*** prisma `"]
-    BrahmBir-.->|Frameworks|Frame["`***VScode*** Blender **Git** 
-                                    Linux *Node.js*
-                                     **Vite** Docker
-                                      *Postman*`"]
-```
+[![](https://mermaid.ink/img/pako:eNqNU8luwjAQ_RXLUi5m-YAcegC6qAoVJYhLXanTZEhcYjuynQJK8--1A-2pFfHBnrHmzZu1pZnOkcY0ilqhhItJy-mu0oesBOM47fXSySqBd6xs-NhBZbHrSBdFXP2akmTNFfFnZqCUM2Em08nNVwKqaKBA20svnL4Rwh7hE2xmRO0YYWxzqvGisbOHa4cx9rBZJv7x4jxNh-LS58QDVidXajUUs26sC4Tz0cjfb5y-_pHlRuvK9vclQ7ZGyNz0w4YQn_DYi-Q6I7s91gatHWruC6GV7nkYqY2wEsg_Md4ZkHjQZm_PYojUo7Zp6H-AzypUORrv9F74VpBh9UmEao4-R-8khDEM5Dm2wnlWstDZHs1AFGErbZ0EdekDHVOJRoLI_fy2wQmnrkSJYUo5zcHsOeWq83bQOJ2eVEZjZxocU6ObovxRmjoHhwsBhS8Mjfv5HlPMhdNmed6Ofkm6b779z2c?type=png)](https://mermaid.live/edit#pako:eNqNU8luwjAQ_RXLUi5m-YAcegC6qAoVJYhLXanTZEhcYjuynQJK8--1A-2pFfHBnrHmzZu1pZnOkcY0ilqhhItJy-mu0oesBOM47fXSySqBd6xs-NhBZbHrSBdFXP2akmTNFfFnZqCUM2Em08nNVwKqaKBA20svnL4Rwh7hE2xmRO0YYWxzqvGisbOHa4cx9rBZJv7x4jxNh-LS58QDVidXajUUs26sC4Tz0cjfb5y-_pHlRuvK9vclQ7ZGyNz0w4YQn_DYi-Q6I7s91gatHWruC6GV7nkYqY2wEsg_Md4ZkHjQZm_PYojUo7Zp6H-AzypUORrv9F74VpBh9UmEao4-R-8khDEM5Dm2wnlWstDZHs1AFGErbZ0EdekDHVOJRoLI_fy2wQmnrkSJYUo5zcHsOeWq83bQOJ2eVEZjZxocU6ObovxRmjoHhwsBhS8Mjfv5HlPMhdNmed6Ofkm6b779z2c)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
