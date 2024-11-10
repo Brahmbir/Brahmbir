@@ -43,8 +43,6 @@ I've got a black belt in Rust, can speak Pythonic poetry, JavaScript jazz, and C
 
 ```mermaid
 flowchart TB
-    %%{init: {"flowchart": {"htmlLabels": false}} }%%
-
 
     subgraph Lang
     Languages(["Language"])<-.-JS@{ img: "https://skillicons.dev/icons?i=js",label: "Javascript", pos: "t", w: 60, h: 60, constraint: "on" }
