@@ -42,25 +42,26 @@ I've got a black belt in Rust, can speak Pythonic poetry, JavaScript jazz, and C
 ## My Skills and Tools 📜
 
 ```mermaid
-info
-```
-
-
-```mermaid
 flowchart TB
+    BrahmBir-.->Lang[Languages]
+    BrahmBir-.->Tool[Tools]
+    BrahmBir-.->Frame[Frameworks]
 
-    subgraph " "
-    Languages(["Language"])
-    Languages<-.-JS@{form:rounded, img: "https://skillicons.dev/icons?i=js", w: 60, h: 60, constraint: "on" }
-    Languages<-.-TS@{form:rounded, img: "https://skillicons.dev/icons?i=ts", w: 60, h: 60, constraint: "on" }
-    Languages<-.-HTML@{form:rounded, img: "https://skillicons.dev/icons?i=html", w: 60, h: 60, constraint: "on" }
-    Languages<-.-CSS@{form:rounded, img: "https://skillicons.dev/icons?i=css", w: 60, h: 60, constraint: "on" }
-    Languages<-.-SQL@{form:rounded, img: "https://skillicons.dev/icons?i=mysql", w: 60, h: 60, constraint: "on" }
-    Languages<-.-PY@{form:rounded, img: "https://skillicons.dev/icons?i=python", w: 60, h: 60, constraint: "on" }
-    Languages<-.-RUST@{form:rounded, img: "https://skillicons.dev/icons?i=rust", w: 60, h: 60, constraint: "on" }
-    Languages<-.-CPP@{form:rounded, img: "https://skillicons.dev/icons?i=cpp", w: 60, h: 60, constraint: "on" }
-    
-    end
+
+    Lang<-.-JS[Javascript]
+    Lang<-.-TS[Typescript]
+    Lang<-.-HTML[HTML]
+    Lang<-.-CSS[CSS]
+    Lang<-.-SQL[SQL]
+    Lang<-.-PY[Python]
+    Lang<-.-RUST[Rust]
+    Lang<-.-CPP[C++]
+
+    Frame<-.-r[React.js]
+    Frame<-.-n[Next.js]
+    Frame<-.-e[Express.js]
+    Frame<-.-h[Hono.js]
+    Frame<-.-p[Prisma]
 
     classDef default fill:#0000,stroke-width:0;
 ```
