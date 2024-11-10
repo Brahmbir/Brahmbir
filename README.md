@@ -38,12 +38,8 @@ I've got a black belt in Rust, can speak Pythonic poetry, JavaScript jazz, and C
 
 ## Recent Projects
 
-<a href="https://brahmbir.dev/">
-<img alt="cool stuff here" style="width: 48.5%;height:100%" src="./asset/projectCard1.svg" />
-</a>
-<a href="https://brahmbir.github.io/GEDIT-graph-editor-/">
-<img align="right" alt="cool stuff here" style="width: 48.5%;" src="./asset/projectCard2.svg" />
-</a>
+| <a href="https://brahmbir.dev/"><img alt="cool stuff here" style="width: 100%;height:100% " src="./asset/projectCard1.svg" /></a> | <a href="https://brahmbir.github.io/GEDIT-graph-editor-/"><img  alt="cool stuff here" style="width: 100%;" src="./asset/projectCard2.svg" /></a> |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 #### For list of all projects, Visit &nbsp;=>&nbsp; [https://brahmbir.github.io](https://brahmbir.github.io)
 
