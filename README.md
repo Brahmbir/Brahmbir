@@ -41,7 +41,8 @@ I've got a black belt in Rust, can speak Pythonic poetry, JavaScript jazz, and C
 
 ## My Skills and Tools 📜
 
-
+```
+mermaid
 ---
 title: test
 ---
@@ -62,6 +63,7 @@ flowchart LR
     Line 3`"]
     markdown --> newLines
   
+```
 
 ### Languages
 
