@@ -1,9 +1,7 @@
 
-```xml
 <svg width="100" height="50">
   <rect width="100" height="50" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)" />
 </svg>
-```
 
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Brahmbir Singh, Software Developer</h3>
